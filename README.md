@@ -1,10 +1,10 @@
 # MATH-CSCI485_Anna_Sustayta
 Adv Topics in Data Science Spring 2026
 
-#Assignment 2- Recursive Feature Elimination
+# Assignment 2- Recursive Feature Elimination
 
 ## Overview
-This [rpject implements Recursive Feature Elimination
+This project implements Recursive Feature Elimination
 
 The goal is to :
  - Build a baseline linear regression model
